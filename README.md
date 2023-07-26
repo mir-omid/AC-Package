@@ -4,7 +4,7 @@ This repository contains an implementation of important components/papers that a
 
 [Practical Delegatable Anonymous Credentials From Equivalence Class Signatures](https://eprint.iacr.org/2022/680) (PETS 2023),
 
-**Threshold Delegatable Anonymous Credentials with Controlled and Fine-Grained Delegation** (IEEE Transactions on Dependable and Secure Computing 2023),
+**Threshold Delegatable Anonymous Credentials with Controlled and Fine-Grained Delegation** (accepted in IEEE Transactions on Dependable and Secure Computing 2023),
 
 The code provided in this repository has been used to showcase the performance and practicality of the research, and generate results that are discussed in detail in the thesis and accompanying papers.
 
