@@ -1,4 +1,4 @@
-This repository contains an implementation of important components/papers that are critical to my thesis research including: 
+The AC python prototype repository provides an implementation of the anonymous credentials methods together, primitives, and protocols used and proposed in the following papers:
 
 [Aggregate Signatures with Versatile Randomization and Issuer-Hiding Multi-Authority Anonymous Credentials](https://eprint.iacr.org/2023/1016) (ACM CCS 2023),
 
